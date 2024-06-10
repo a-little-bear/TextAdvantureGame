@@ -1,0 +1,62 @@
+"One year ago, 
+a witch catch the princess to the witch's castle, 
+and the witch said to the country if you want to save the princess, 
+you must kill me and my dragon. but until now, 
+no one can pass the thorns jungle, 
+and you are trying to save the princess."
+
+this horrible game (story) is made from Joseph
+
+Extra v1
+can not run
+add a lots of game in the end of the program
+
+v1
+first version
+main program frame
+
+v2
+add a score at the end
+fix some bug
+
+v2.1
+fix some bug
+
+v2.25
+try to make words more interesting 
+fix some bug
+
+v2.4
+make a smaile face at the end
+fix the score bug
+add more intersting words
+
+v2.5
+fix some smile face bug
+fix some score bug
+fix some main program bug
+add more intersting word
+
+v2.7
+add a lots of intersting words
+make smile face more plentiful
+add some pattern "start" "maple leaf"to the smile face
+
+v3.0
+try to use input key "Esc" at the end
+and a lots of intersting words
+
+program:
+procedure(GUI)
+function
+Draw
+Input.KeyDown (v3.0)
+loop
+for
+array
+length
+.
+.
+.
+.
+.
